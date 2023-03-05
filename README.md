@@ -1,2 +1,2 @@
 # so_long
-game 2d
+Game 2D 
