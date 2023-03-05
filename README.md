@@ -1,5 +1,5 @@
 # so_long
-<h2 align="center" Game 2D /> 
+<h2 align="center"  >Game 2D</h2>
 
 to run so_long 
 
