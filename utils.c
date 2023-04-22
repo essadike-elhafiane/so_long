@@ -41,7 +41,7 @@ void	ft_putnbr_fd(int n, int fd)
 		a = n * -1;
 		ft_putchar_fd ('-', fd);
 	}
-	if (a >= 0 && a <= 9)
+	if (0 <= a && a <= 9)
 	{
 		ft_putchar_fd(a + 48, fd);
 	}
